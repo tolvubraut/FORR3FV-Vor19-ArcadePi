@@ -1,1 +1,3 @@
 # ArcadePi
+
+![Image](arcadePi.svg)
