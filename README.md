@@ -1,9 +1,9 @@
 # ArcadePi
 
+![Image](arcadePi.svg)
+
 ## Lýsing
 Þetta verkefni stefnir að því að búa til há gæða Arcade vél sem verður með nokkra sérhannaða leiki og getur emulate-að leiki frá flestum eldri leikjatölvum eins og SNES, Gameboy etc. Body-ið á vélinni mun vera búinn til í framtíðarstofunni. Þessi Arcade mun henta æðislega fyrir sýningar og atburði til þess að auglýsa Tölvubraut og framtíðarstofuna.
-
-![Image](arcadePi.svg)
 
 ## Part list
 [Power Supply * 3](https://www.meanwell-web.com/en-gb/ac-dc-single-output-enclosed-power-supply-output-rs--25--5)<br>
