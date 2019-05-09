@@ -1,3 +1,9 @@
+## Höfundar:
+### Benedikt
+### Davíð
+### Kristján
+
+
 # ArcadePi
 
 ![Image](arcadePi.svg)
@@ -15,10 +21,25 @@
 [Screen power adapter * 6](https://www.adafruit.com/product/3211)<br>
 [Screen driver pcb * 2](https://www.adafruit.com/product/2345)
 
+## Hversu langt komumst við?
 
-## Hvað vantar upp á verkefnið 
+Það komu upp mjög mörg skrautleg vandamál sem við sáum ekki fyrir í þessu verkefni, og það hægði frekar mikið á okkur. Þess vegna þurftum við að minnka verkefnið smá til að það væri hægt að ná deadline-inu.
+
+Við festum alla skjánna við 3x3 frame
+Við tengdum þá alla við raspberri pi kóða sem gat spilað video eða display-að myndir á pi-inn
+Við tengdum input takka við pi-inn sem gat interactað við skjáinn
+Við kynntum okkur pixel mapper kóða til þess að við gætum skrifað okkar eiginn pixel mapper kóða.
+Við kynntum okkur hvernig á að vinna 
+
+## Hvað vantar upp á verkefnið? 
 
 * Fá ffmpeg screen capture til að displaya á matrixið
 * Búa til custom pixel mapper fyrir setup-ið okkar
-* Forrita leonardo
+* Forrita leonardo til að senda usb-signal
 * Búa til kassa utan um vélina
+
+## Kóði
+
+Mest allur kóði sem við notuðum var frá þessu pixel mapper library:
+#(EKKI FINAL VERSION PLZ SETJIÐ INN EINHVERN KÓÐA)
+https://github.com/hzeller/rpi-rgb-led-matrix
