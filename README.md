@@ -14,3 +14,11 @@
 [C14 Male Power Socket * 3](https://www.amazon.com/URBEST-Socket-Module-Switch-Terminals/dp/B06XNMT3WL/ref=sr_1_1_sspa?keywords=C14+Inlet+Male+Plug+Power+Socket&qid=1552381915&s=gateway&sr=8-1-spons&psc=1)<br>
 [Screen power adapter * 6](https://www.adafruit.com/product/3211)<br>
 [Screen driver pcb * 2](https://www.adafruit.com/product/2345)
+
+
+## Hvað vantar upp á verkefnið 
+
+* fá screen capture ffmpeg
+* Pixel mapper
+* forrita leonardo
+* Búa til kassa utan um vélina
