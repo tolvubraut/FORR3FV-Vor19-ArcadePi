@@ -18,7 +18,7 @@
 
 ## Hvað vantar upp á verkefnið 
 
-* fá screen capture ffmpeg
-* Pixel mapper
-* forrita leonardo
+* Fá ffmpeg screen capture til að displaya á matrixið
+* Búa til custom pixel mapper fyrir setup-ið okkar
+* Forrita leonardo
 * Búa til kassa utan um vélina
