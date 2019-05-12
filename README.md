@@ -47,7 +47,21 @@ https://github.com/hzeller/rpi-rgb-led-matrix
 
 ## Myndir og myndbönd
 
-# BENNI DO SOMETHING
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HgUZTIXKdLo
 " target="_blank"><img src="http://img.youtube.com/vi/HgUZTIXKdLo/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=b05tBVBXyNg
+" target="_blank"><img src="http://img.youtube.com/vi/b05tBVBXyNg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CV4-rwr6hdc
+" target="_blank"><img src="http://img.youtube.com/vi/CV4-rwr6hdc/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=E8BBhOTaYSk
+" target="_blank"><img src="http://img.youtube.com/vi/E8BBhOTaYSk/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jp3dPthCsVM
+" target="_blank"><img src="http://img.youtube.com/vi/jp3dPthCsVM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jBmVpUQb9HM
+" target="_blank"><img src="http://img.youtube.com/vi/jBmVpUQb9HM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
