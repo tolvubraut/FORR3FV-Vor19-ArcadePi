@@ -43,7 +43,7 @@
 
 Við skrifuðum mjög lítinn kóða þar sem flest allt sem við gerðum var annaðhvort testing með kóða sem var nú þegar til eða bara hardware hlutir eins og að reyna að tengja allt saman rétt.
 Mest allur kóði sem við notuðum var frá þessu adafruit matrix library:
-https://github.com/hzeller/rpi-rgb-led-matrix
+![https://github.com/hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix)
 
 ## Myndir og myndbönd
 
