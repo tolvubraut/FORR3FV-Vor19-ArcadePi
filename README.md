@@ -28,9 +28,9 @@
 * festum alla skjánna við 3x3 frame
 * tengdum þá alla við raspberri pi kóða sem gat spilað video eða display-að myndir á pi-inn
 * tengdum input takka við pi-inn sem gat interactað við skjáinn
-* settum upp blueprint fyrir hvernig þetta ætti að líta út að lokum
+* settum upp blueprint fyrir hvernig þetta ætti að líta út að lokum (sést að ofan)
 * kynntum okkur pixel mapper kóða til þess að við gætum skrifað okkar eiginn pixel mapper kóða.
-* kynntum okkur hvernig á að vinna 
+* kynntum okkur hvernig á að vinna með ffmpeg
 
 ## Hvað vantar upp á verkefnið? 
 
