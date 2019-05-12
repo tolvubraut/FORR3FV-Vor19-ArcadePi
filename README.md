@@ -25,11 +25,12 @@
 
 Það komu upp mjög mörg skrautleg vandamál sem við sáum ekki fyrir í þessu verkefni, og það hægði frekar mikið á okkur. Þess vegna þurftum við að minnka verkefnið smá til að það væri hægt að ná deadline-inu.
 
-Við festum alla skjánna við 3x3 frame
-Við tengdum þá alla við raspberri pi kóða sem gat spilað video eða display-að myndir á pi-inn
-Við tengdum input takka við pi-inn sem gat interactað við skjáinn
-Við kynntum okkur pixel mapper kóða til þess að við gætum skrifað okkar eiginn pixel mapper kóða.
-Við kynntum okkur hvernig á að vinna 
+* festum alla skjánna við 3x3 frame
+* tengdum þá alla við raspberri pi kóða sem gat spilað video eða display-að myndir á pi-inn
+* tengdum input takka við pi-inn sem gat interactað við skjáinn
+* settum upp blueprint fyrir hvernig þetta ætti að líta út að lokum
+* kynntum okkur pixel mapper kóða til þess að við gætum skrifað okkar eiginn pixel mapper kóða.
+* kynntum okkur hvernig á að vinna 
 
 ## Hvað vantar upp á verkefnið? 
 
@@ -40,6 +41,10 @@ Við kynntum okkur hvernig á að vinna
 
 ## Kóði
 
+Við skrifuðum mjög lítinn kóða þar sem flest allt sem við gerðum var annaðhvort testing með kóða sem var nú þegar til eða bara hardware hlutir eins og að reyna að tengja allt saman rétt.
 Mest allur kóði sem við notuðum var frá þessu pixel mapper library:
-#(EKKI FINAL VERSION PLZ SETJIÐ INN EINHVERN KÓÐA)
 https://github.com/hzeller/rpi-rgb-led-matrix
+
+## Myndir og myndbönd
+
+# BENNI DO SOMETHING
