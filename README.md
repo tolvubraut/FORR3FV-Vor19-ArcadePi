@@ -46,8 +46,6 @@
     </div>
 </div> 
 
-# ArcadePi
-
 ![Image](arcadePi.svg)
 
 ## Höfundar:
